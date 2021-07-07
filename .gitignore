@@ -1,2 +1,4 @@
 mail_restrict_external_partner_follower/__pycache__/*.pyc
 mail_restrict_external_partner_follower/models/__pycache__/*.pyc
+product_sale_additional_description/__pycache__/*.pyc
+product_sale_additional_description/models/__pycache__/*.pyc
